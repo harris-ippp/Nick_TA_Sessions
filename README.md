@@ -19,3 +19,11 @@ This lab was meant to familiarize students with navigating the terminal and usin
 - Workflow with a text editor and interpreter/Shell
 
 ## 2 - Python Basics
+This lab covers:
+- Doc Strings
+- Working with functions
+- Returning multiple values with functions
+- Returning no values with functions
+- Global variables
+- A first look at some data structures
+- Using iPython
