@@ -1,0 +1,8 @@
+
+Nick Tallant: TA Session 01 ANSWERS
+
+1. 'head -18 sonnets.txt'
+2. Love is too young to know what conscience is,
+3. Love is mentioned 202 times.
+4. 'mv sonnets.txt poems.txt'
+5. 154 sonnets in the file.
