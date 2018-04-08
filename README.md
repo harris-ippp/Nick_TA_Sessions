@@ -9,6 +9,8 @@
     - atom
 - [GitHub](https://github.com/ndtallant)
 
+If you have trouble using this repo, review this [GitHub tutorial](https://help.github.com/articles/fetching-a-remote/) on clone, fetch, merge, and pull.
+
 ## 1 - Shell Scripting
 This lab was meant to familiarize students with navigating the terminal and using shell commands. Things to remember:
 - The important ones: cd, ls, mkdir, rm, cp, mv
