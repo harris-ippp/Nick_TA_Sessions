@@ -21,34 +21,6 @@ but we will also a first peek at some data structures.
 STUDENTS = {}
 NUM_BEERS = []
 
-def test():
-    '''
-    This is a doc string - cool!
-    '''
-    name = input('enter a name: ')
-    return name 
-
-def read_in_student():
-    '''
-    Read in a student and the number of beers they drank.
-    Input: 
-          From the user!
-    Output: 
-          student_name (string)
-          beer_count (int)
-    '''
-    # Your code here, delete pass
-    pass 
-    return student_name, beer_count
-
-def total_beers():
-    '''
-    Find the total number of beers...
-
-    '''
-    # Your code here, delete pass
-    pass 
- 
 def sign_in():
     '''
     This function takes in user input to store 
@@ -72,6 +44,20 @@ def sign_in():
     return ('{} students came to After Hours. '
             'They drank a total of {} beers!'.format(len(STUDENTS), beers))
 
+def read_in_student():
+    '''
+    Read in a student and the number of beers they drank.
+    Input: 
+          From the user!
+    Output: 
+          student_name (string)
+          beer_count (int)
+    '''
+    
+    student_name = input('Student Name: ')
+    beer_count = int(input('Number of beers: ')) 
+    return student_name, beer_count
+
 def add_student(student_name, beer_count):
     '''
     Given a student and the number of beers they drank, this function
@@ -86,3 +72,10 @@ def add_student(student_name, beer_count):
     '''
     STUDENTS[student_name] = beer_count
     NUM_BEERS.append(beer_count)
+
+def total_beers():
+    '''
+    Find the total number of beers...
+
+    '''
+    return sum(NUM_BEERS)

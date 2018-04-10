@@ -27,3 +27,11 @@ This lab covers:
 - Global variables
 - A first look at some data structures
 - Using iPython
+    - Specifically autoreload
+![ ](reload.png)
+
+Code snippets:
+
+```
+my_variable = input('Text will show up here')
+```
