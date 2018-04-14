@@ -35,3 +35,6 @@ Code snippets:
 ```
 my_variable = input('Text will show up here')
 ```
+
+## 3 - Data Structures
+Stay Tuned:

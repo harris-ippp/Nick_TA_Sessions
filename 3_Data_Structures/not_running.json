@@ -1,0 +1,211 @@
+{
+    {"Paul Ryan": 
+        {"Party": "Republican", 
+         "State": "Wisconsin", 
+         "District": 1}
+    }, 
+
+    {"Dave Reichert":
+        {"Party": "Republican",
+         "State": "Washington", 
+         "District": 8}
+    },
+
+    {"Bob Goodlatte":
+        {"Party": "Republican",
+         "State": "Virginia",
+         "District": 6}
+    },
+
+    {"Joe Barton":
+        {"Party": "Republican",
+         "State": "Texas",
+         "District": 6}
+    },
+
+    {"Jeb Hensarling":
+        {"Party": "Republican",
+         "State": "Texas",
+         "District": 5}
+    }, 
+    
+    {"Sam Johnson":
+        {"Party": "Republican",
+         "State": "Texas",
+         "District": 3}
+    },
+    
+    {"Gene Green":
+        {"Party": "Democratic",	
+         "State": "Texas", 
+         "District": 29}
+    },
+
+    {"Lamar Smith":
+        {"Party": "Republican",	
+         "State": "Texas", 
+         "District": 21}
+    },
+    
+    {"Ted Poe":
+        {"Party": "Republican",	
+         "State": "Texas", 
+         "District": 2}
+    },
+
+    {"John J. Duncan, Jr.":
+        {"Party": "Republican",	
+         "State": "Tennessee", 
+         "District": 2}
+    },
+
+    {"Trey Gowdy":
+        {"Party": "Republican",	
+         "State": "South Carolina", 
+         "District": 4}
+    },
+
+    {"Bill Shuster":
+        {"Party": "Republican",	
+         "State": "Pennsylvania",
+         "District": 9}
+    },
+
+    {"Patrick Meehan":
+        {"Party": "Republican",	
+         "State": "Pennsylvania", 
+         "District": 7}
+    },
+
+    {"Ryan Costello":
+        {"Party": "Republican",	
+         "State": "Pennsylvania", 
+         "District": 6}
+    },
+    
+    {"Charles W. Dent":
+        {"Party": "Republican",	
+         "State":  "Pennsylvania", 
+         "District": 15}
+    },
+
+    {"Robert Brady":
+        {"Party": "Democratic",	
+         "State": "Pennsylvania", 
+         "District": 1}
+    },
+
+    {"Jim Bridenstine":
+        {"Party": "Republican",	
+         "State": "Oklahoma", 
+         "District": 1}
+    },
+
+    {"Frank LoBiondo":
+        {"Party": "Republican",	
+         "State": "New Jersey", 
+         "District": 2}
+    },
+
+    {"Rodney Frelinghuysen":
+        {"Party": "Republican",	
+         "State": "New Jersey", 
+         "District": 11}
+    },
+
+    {"Carol Shea-Porter":
+        {"Party": "Democratic",	
+         "State": "New Hampshire", 
+         "District": 1}
+    },
+
+    {"Ruben J. Kihuen":
+        {"Party": "Democratic",	
+         "State": "Nevada", 
+         "District": 4}
+    },
+    
+    {"Gregg Harper":
+        {"Party": "Republican",	
+         "State": "Mississippi", 
+         "District": 3}
+    },
+    
+    {"Rick Nolan":
+        {"Party": "Democratic",	
+         "State": "Minnesota", 
+         "District": 8}
+    },
+    
+    {"Sandy Levin":
+        {"Party": "Democratic",	
+         "State": "Michigan", 
+         "District": 9}
+    },
+    
+    {"David Trott":
+        {"Party": "Republican",	
+         "State": "Michigan", 
+         "District": 11}
+    },
+
+    {"Niki Tsongas":
+        {"Party": "Democratic",
+         "State": "Massachusetts", 
+         "District": 3}
+    },
+
+    {"John Delaney":
+        {"Party": "Democratic",	
+         "State": "Maryland", 
+         "District": 6}
+    },
+
+    {"Lynn Jenkins":
+        {"Party": "Republican",	
+         "State": "Kansas", 
+         "District": 2}
+    },
+
+    {"Luis V. Gutierrez":
+        {"Party": "Democratic",	
+         "State": "Illinois", 
+         "District": 4}
+    },
+
+    {"Ileana Ros-Lehtinen":
+        {"Party": "Republican",	
+         "State": "Florida", 
+         "District": 27}
+    },
+
+    {"Thomas Rooney":
+        {"Party": "Republican",	
+         "State": "Florida", 
+         "District": 17}
+    },
+
+    {"Dennis Ross":
+        {"Party": "Republican",	
+         "State": "Florida", 
+         "District": 15}
+    },
+
+    {"Elizabeth Esty":
+        {"Party": "Democratic",	
+         "State": "Connecticut", 
+         "District": 5}
+    },
+
+    {"Darrell Issa":
+        {"Party": "Republican",	
+         "State": "California", 
+         "District": 49}
+    },
+    
+    {"Edward Royce":
+        {"Party": "Republican",	
+         "State": "California", 
+         "District": 39}
+    }
+}
