@@ -37,4 +37,22 @@ my_variable = input('Text will show up here')
 ```
 
 ## 3 - Data Structures
-Stay Tuned:
+A brief review on data structures, including:
+- pointers
+- iterating
+- indexing
+- lists
+- dictionaries
+    - keys, values, items
+- tuples
+- sets
+
+Example output of a row for `read_salaries()`:
+
+Row from csv :
+
+`"AARON,  JEFFERY M",SERGEANT,POLICE,F,Salary,,$101442.00,`
+
+Row in output:
+
+`['AARON', 'JEFFERY', 'SERGEANT', 'POLICE', 'F', 'Salary', '', 101442.0, '']`
