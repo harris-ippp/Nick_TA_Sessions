@@ -56,3 +56,6 @@ Row from csv :
 Row in output:
 
 `['AARON', 'JEFFERY', 'SERGEANT', 'POLICE', 'F', 'Salary', '', 101442.0, '']`
+
+## 4 - Putting it Together
+See Media.ipynb for objectives!
